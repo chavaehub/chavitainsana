@@ -5,7 +5,7 @@ import threading
 from tqdm import tqdm
 
 TARGET = "https://your-target.com/api-key/user/login/dep"
-USERNAME = "anlanojna"
+USERNAME = "cpc.eliaschm"
 WORDLIST = "/usr/share/wordlists/rockyou.txt"
 API_KEY = "YXBpY2hpbmdvbmVyaWFkZWNoZW5nb2F3..."
 THREADS = 20
