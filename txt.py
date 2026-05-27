@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 TARGET = "https://your-target.com/api-key/user/login/dep"
 USERNAME = "cpc.eliaschm"
-WORDLIST = "/usr/share/wordlists/rockyou.txt"
+WORDLIST = "pass.txt"
 API_KEY = "YXBpY2hpbmdvbmVyaWFkZWNoaW5nb25lcmlhcw"
 THREADS = 20
 LIMIT = 10000
